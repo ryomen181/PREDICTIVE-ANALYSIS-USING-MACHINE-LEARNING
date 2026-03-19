@@ -18,3 +18,4 @@ This project focuses on building a machine learning model to predict customer ch
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/b327f2b9-a23a-441d-a355-94676012d2a1)
